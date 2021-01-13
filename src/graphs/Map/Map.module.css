@@ -1,0 +1,43 @@
+.bubble_tooltip {
+  padding: 1rem;
+  background-color: transparent;
+  color: #333;
+  font-size: 14px;
+}
+
+.country {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.red {
+  background: #f25050;
+  width: 8px;
+  height: 8px;
+  display: inline-block;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.blue {
+  background: #149f84;
+  width: 8px;
+  height: 8px;
+  display: inline-block;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.label {
+  margin-right: 1rem;
+}
+
+.cases {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+
+.map_container {
+  margin-top: unset;
+}

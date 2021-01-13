@@ -1,0 +1,3677 @@
+[
+  {
+    "date": "2009-04-16",
+    "cities": {
+      "Aleppo": {
+        "cases": 7432,
+        "deaths": 8
+      },
+      "Colombia": {
+        "cases": 2295,
+        "deaths": 3
+      },
+      "Iran": {
+        "cases": 305,
+        "deaths": 0
+      },
+      "Karachi": {
+        "cases": 29020,
+        "deaths": 36
+      },
+      "Lebanon": {
+        "cases": 1636,
+        "deaths": 1
+      },
+      "Nairobi": {
+        "cases": 4943,
+        "deaths": 5
+      },
+      "Saudi": {
+        "cases": 4622,
+        "deaths": 5
+      },
+      "Thailand": {
+        "cases": 387,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 861,
+        "deaths": 3
+      },
+      "Venezuela": {
+        "cases": 122,
+        "deaths": 0
+      },
+      "Yemen": {
+        "cases": 602,
+        "deaths": 2
+      }
+    }
+  },
+  {
+    "date": "2009-04-17",
+    "cities": {
+      "Aleppo": {
+        "cases": 7430,
+        "deaths": 9
+      },
+      "Colombia": {
+        "cases": 1250,
+        "deaths": 0
+      },
+      "Iran": {
+        "cases": 2780,
+        "deaths": 3
+      },
+      "Karachi": {
+        "cases": 37093,
+        "deaths": 36
+      },
+      "Lebanon": {
+        "cases": 2245,
+        "deaths": 2
+      },
+      "Nairobi": {
+        "cases": 4182,
+        "deaths": 4
+      },
+      "Saudi": {
+        "cases": 5213,
+        "deaths": 7
+      },
+      "Thailand": {
+        "cases": 201,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1746,
+        "deaths": 3
+      },
+      "Venezuela": {
+        "cases": 685,
+        "deaths": 0
+      },
+      "Yemen": {
+        "cases": 791,
+        "deaths": 2
+      }
+    }
+  },
+  {
+    "date": "2009-04-18",
+    "cities": {
+      "Aleppo": {
+        "cases": 6321,
+        "deaths": 8
+      },
+      "Colombia": {
+        "cases": 1946,
+        "deaths": 1
+      },
+      "Iran": {
+        "cases": 1681,
+        "deaths": 2
+      },
+      "Karachi": {
+        "cases": 20714,
+        "deaths": 20
+      },
+      "Lebanon": {
+        "cases": 1256,
+        "deaths": 0
+      },
+      "Nairobi": {
+        "cases": 4884,
+        "deaths": 6
+      },
+      "Saudi": {
+        "cases": 2462,
+        "deaths": 3
+      },
+      "Thailand": {
+        "cases": 515,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 806,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 621,
+        "deaths": 1
+      },
+      "Yemen": {
+        "cases": 786,
+        "deaths": 0
+      }
+    }
+  },
+  {
+    "date": "2009-04-19",
+    "cities": {
+      "Aleppo": {
+        "cases": 6836,
+        "deaths": 10
+      },
+      "Colombia": {
+        "cases": 1627,
+        "deaths": 2
+      },
+      "Iran": {
+        "cases": 4228,
+        "deaths": 4
+      },
+      "Karachi": {
+        "cases": 22022,
+        "deaths": 22
+      },
+      "Lebanon": {
+        "cases": 2240,
+        "deaths": 3
+      },
+      "Nairobi": {
+        "cases": 3842,
+        "deaths": 5
+      },
+      "Saudi": {
+        "cases": 2660,
+        "deaths": 2
+      },
+      "Thailand": {
+        "cases": 341,
+        "deaths": 2
+      },
+      "Turkey": {
+        "cases": 458,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 246,
+        "deaths": 0
+      },
+      "Yemen": {
+        "cases": 1273,
+        "deaths": 2
+      }
+    }
+  },
+  {
+    "date": "2009-04-20",
+    "cities": {
+      "Aleppo": {
+        "cases": 9748,
+        "deaths": 6
+      },
+      "Colombia": {
+        "cases": 1583,
+        "deaths": 0
+      },
+      "Iran": {
+        "cases": 2229,
+        "deaths": 1
+      },
+      "Karachi": {
+        "cases": 22720,
+        "deaths": 20
+      },
+      "Lebanon": {
+        "cases": 3956,
+        "deaths": 5
+      },
+      "Nairobi": {
+        "cases": 3093,
+        "deaths": 6
+      },
+      "Saudi": {
+        "cases": 4131,
+        "deaths": 5
+      },
+      "Thailand": {
+        "cases": 0,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 886,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 0,
+        "deaths": 0
+      },
+      "Yemen": {
+        "cases": 695,
+        "deaths": 1
+      }
+    }
+  },
+  {
+    "date": "2009-04-21",
+    "cities": {
+      "Aleppo": {
+        "cases": 9075,
+        "deaths": 12
+      },
+      "Colombia": {
+        "cases": 1804,
+        "deaths": 2
+      },
+      "Iran": {
+        "cases": 1782,
+        "deaths": 2
+      },
+      "Karachi": {
+        "cases": 11513,
+        "deaths": 8
+      },
+      "Lebanon": {
+        "cases": 2709,
+        "deaths": 4
+      },
+      "Nairobi": {
+        "cases": 2041,
+        "deaths": 8
+      },
+      "Saudi": {
+        "cases": 9068,
+        "deaths": 8
+      },
+      "Thailand": {
+        "cases": 163,
+        "deaths": 1
+      },
+      "Turkey": {
+        "cases": 613,
+        "deaths": 1
+      },
+      "Venezuela": {
+        "cases": 546,
+        "deaths": 1
+      },
+      "Yemen": {
+        "cases": 1002,
+        "deaths": 3
+      }
+    }
+  },
+  {
+    "date": "2009-04-22",
+    "cities": {
+      "Aleppo": {
+        "cases": 6788,
+        "deaths": 13
+      },
+      "Colombia": {
+        "cases": 2428,
+        "deaths": 5
+      },
+      "Iran": {
+        "cases": 2016,
+        "deaths": 4
+      },
+      "Karachi": {
+        "cases": 27028,
+        "deaths": 28
+      },
+      "Lebanon": {
+        "cases": 844,
+        "deaths": 4
+      },
+      "Nairobi": {
+        "cases": 4579,
+        "deaths": 16
+      },
+      "Saudi": {
+        "cases": 6867,
+        "deaths": 6
+      },
+      "Thailand": {
+        "cases": 511,
+        "deaths": 1
+      },
+      "Turkey": {
+        "cases": 1089,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 209,
+        "deaths": 0
+      },
+      "Yemen": {
+        "cases": 986,
+        "deaths": 0
+      }
+    }
+  },
+  {
+    "date": "2009-04-23",
+    "cities": {
+      "Aleppo": {
+        "cases": 6776,
+        "deaths": 13
+      },
+      "Colombia": {
+        "cases": 3139,
+        "deaths": 9
+      },
+      "Iran": {
+        "cases": 623,
+        "deaths": 0
+      },
+      "Karachi": {
+        "cases": 30090,
+        "deaths": 24
+      },
+      "Lebanon": {
+        "cases": 3125,
+        "deaths": 12
+      },
+      "Nairobi": {
+        "cases": 3288,
+        "deaths": 25
+      },
+      "Saudi": {
+        "cases": 3654,
+        "deaths": 6
+      },
+      "Thailand": {
+        "cases": 118,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1200,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 1274,
+        "deaths": 2
+      },
+      "Yemen": {
+        "cases": 872,
+        "deaths": 1
+      }
+    }
+  },
+  {
+    "date": "2009-04-24",
+    "cities": {
+      "Aleppo": {
+        "cases": 5724,
+        "deaths": 34
+      },
+      "Colombia": {
+        "cases": 3053,
+        "deaths": 6
+      },
+      "Iran": {
+        "cases": 2303,
+        "deaths": 3
+      },
+      "Karachi": {
+        "cases": 18729,
+        "deaths": 71
+      },
+      "Lebanon": {
+        "cases": 1191,
+        "deaths": 8
+      },
+      "Nairobi": {
+        "cases": 8271,
+        "deaths": 83
+      },
+      "Saudi": {
+        "cases": 4696,
+        "deaths": 13
+      },
+      "Thailand": {
+        "cases": 279,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1182,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 523,
+        "deaths": 0
+      },
+      "Yemen": {
+        "cases": 687,
+        "deaths": 4
+      }
+    }
+  },
+  {
+    "date": "2009-04-25",
+    "cities": {
+      "Aleppo": {
+        "cases": 8558,
+        "deaths": 83
+      },
+      "Colombia": {
+        "cases": 2677,
+        "deaths": 7
+      },
+      "Iran": {
+        "cases": 1845,
+        "deaths": 5
+      },
+      "Karachi": {
+        "cases": 18989,
+        "deaths": 101
+      },
+      "Lebanon": {
+        "cases": 1345,
+        "deaths": 11
+      },
+      "Nairobi": {
+        "cases": 5183,
+        "deaths": 97
+      },
+      "Saudi": {
+        "cases": 5320,
+        "deaths": 14
+      },
+      "Thailand": {
+        "cases": 452,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1392,
+        "deaths": 1
+      },
+      "Venezuela": {
+        "cases": 816,
+        "deaths": 0
+      },
+      "Yemen": {
+        "cases": 1370,
+        "deaths": 10
+      }
+    }
+  },
+  {
+    "date": "2009-04-26",
+    "cities": {
+      "Aleppo": {
+        "cases": 6308,
+        "deaths": 112
+      },
+      "Colombia": {
+        "cases": 2587,
+        "deaths": 8
+      },
+      "Iran": {
+        "cases": 2403,
+        "deaths": 10
+      },
+      "Karachi": {
+        "cases": 27265,
+        "deaths": 219
+      },
+      "Lebanon": {
+        "cases": 1861,
+        "deaths": 21
+      },
+      "Nairobi": {
+        "cases": 5479,
+        "deaths": 323
+      },
+      "Saudi": {
+        "cases": 393,
+        "deaths": 10
+      },
+      "Thailand": {
+        "cases": 157,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1740,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 593,
+        "deaths": 4
+      },
+      "Yemen": {
+        "cases": 1237,
+        "deaths": 13
+      }
+    }
+  },
+  {
+    "date": "2009-04-27",
+    "cities": {
+      "Aleppo": {
+        "cases": 10174,
+        "deaths": 418
+      },
+      "Colombia": {
+        "cases": 2507,
+        "deaths": 13
+      },
+      "Iran": {
+        "cases": 1737,
+        "deaths": 12
+      },
+      "Karachi": {
+        "cases": 27413,
+        "deaths": 336
+      },
+      "Lebanon": {
+        "cases": 2574,
+        "deaths": 41
+      },
+      "Nairobi": {
+        "cases": 5389,
+        "deaths": 380
+      },
+      "Saudi": {
+        "cases": 6390,
+        "deaths": 46
+      },
+      "Thailand": {
+        "cases": 584,
+        "deaths": 1
+      },
+      "Turkey": {
+        "cases": 882,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 524,
+        "deaths": 6
+      },
+      "Yemen": {
+        "cases": 1127,
+        "deaths": 21
+      }
+    }
+  },
+  {
+    "date": "2009-04-28",
+    "cities": {
+      "Aleppo": {
+        "cases": 11553,
+        "deaths": 504
+      },
+      "Colombia": {
+        "cases": 2489,
+        "deaths": 24
+      },
+      "Iran": {
+        "cases": 817,
+        "deaths": 44
+      },
+      "Karachi": {
+        "cases": 29251,
+        "deaths": 1034
+      },
+      "Lebanon": {
+        "cases": 1186,
+        "deaths": 74
+      },
+      "Nairobi": {
+        "cases": 8457,
+        "deaths": 435
+      },
+      "Saudi": {
+        "cases": 6807,
+        "deaths": 67
+      },
+      "Thailand": {
+        "cases": 324,
+        "deaths": 1
+      },
+      "Turkey": {
+        "cases": 418,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 841,
+        "deaths": 13
+      },
+      "Yemen": {
+        "cases": 1087,
+        "deaths": 39
+      }
+    }
+  },
+  {
+    "date": "2009-04-29",
+    "cities": {
+      "Aleppo": {
+        "cases": 13754,
+        "deaths": 591
+      },
+      "Colombia": {
+        "cases": 2224,
+        "deaths": 30
+      },
+      "Iran": {
+        "cases": 2595,
+        "deaths": 57
+      },
+      "Karachi": {
+        "cases": 20011,
+        "deaths": 1274
+      },
+      "Lebanon": {
+        "cases": 2114,
+        "deaths": 94
+      },
+      "Nairobi": {
+        "cases": 10280,
+        "deaths": 514
+      },
+      "Saudi": {
+        "cases": 9819,
+        "deaths": 207
+      },
+      "Thailand": {
+        "cases": 60,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1158,
+        "deaths": 2
+      },
+      "Venezuela": {
+        "cases": 338,
+        "deaths": 20
+      },
+      "Yemen": {
+        "cases": 1125,
+        "deaths": 44
+      }
+    }
+  },
+  {
+    "date": "2009-04-30",
+    "cities": {
+      "Aleppo": {
+        "cases": 9042,
+        "deaths": 711
+      },
+      "Colombia": {
+        "cases": 2534,
+        "deaths": 40
+      },
+      "Iran": {
+        "cases": 1965,
+        "deaths": 128
+      },
+      "Karachi": {
+        "cases": 44980,
+        "deaths": 1515
+      },
+      "Lebanon": {
+        "cases": 2523,
+        "deaths": 116
+      },
+      "Nairobi": {
+        "cases": 7138,
+        "deaths": 595
+      },
+      "Saudi": {
+        "cases": 5661,
+        "deaths": 249
+      },
+      "Thailand": {
+        "cases": 430,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1626,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 555,
+        "deaths": 39
+      },
+      "Yemen": {
+        "cases": 1483,
+        "deaths": 54
+      }
+    }
+  },
+  {
+    "date": "2009-05-01",
+    "cities": {
+      "Aleppo": {
+        "cases": 10006,
+        "deaths": 827
+      },
+      "Colombia": {
+        "cases": 3377,
+        "deaths": 124
+      },
+      "Iran": {
+        "cases": 2921,
+        "deaths": 156
+      },
+      "Karachi": {
+        "cases": 30981,
+        "deaths": 1804
+      },
+      "Lebanon": {
+        "cases": 1127,
+        "deaths": 118
+      },
+      "Nairobi": {
+        "cases": 9016,
+        "deaths": 691
+      },
+      "Saudi": {
+        "cases": 7840,
+        "deaths": 268
+      },
+      "Thailand": {
+        "cases": 592,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 2546,
+        "deaths": 2
+      },
+      "Venezuela": {
+        "cases": 630,
+        "deaths": 47
+      },
+      "Yemen": {
+        "cases": 1899,
+        "deaths": 61
+      }
+    }
+  },
+  {
+    "date": "2009-05-02",
+    "cities": {
+      "Aleppo": {
+        "cases": 17292,
+        "deaths": 981
+      },
+      "Colombia": {
+        "cases": 4151,
+        "deaths": 154
+      },
+      "Iran": {
+        "cases": 2790,
+        "deaths": 176
+      },
+      "Karachi": {
+        "cases": 35090,
+        "deaths": 2052
+      },
+      "Lebanon": {
+        "cases": 1527,
+        "deaths": 128
+      },
+      "Nairobi": {
+        "cases": 8767,
+        "deaths": 756
+      },
+      "Saudi": {
+        "cases": 4892,
+        "deaths": 292
+      },
+      "Thailand": {
+        "cases": 341,
+        "deaths": 1
+      },
+      "Turkey": {
+        "cases": 444,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 1000,
+        "deaths": 53
+      },
+      "Yemen": {
+        "cases": 1342,
+        "deaths": 80
+      }
+    }
+  },
+  {
+    "date": "2009-05-03",
+    "cities": {
+      "Aleppo": {
+        "cases": 12530,
+        "deaths": 1139
+      },
+      "Colombia": {
+        "cases": 4128,
+        "deaths": 176
+      },
+      "Iran": {
+        "cases": 4263,
+        "deaths": 203
+      },
+      "Karachi": {
+        "cases": 37847,
+        "deaths": 2364
+      },
+      "Lebanon": {
+        "cases": 1884,
+        "deaths": 144
+      },
+      "Nairobi": {
+        "cases": 10011,
+        "deaths": 845
+      },
+      "Saudi": {
+        "cases": 5886,
+        "deaths": 303
+      },
+      "Thailand": {
+        "cases": 299,
+        "deaths": 1
+      },
+      "Turkey": {
+        "cases": 1291,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 836,
+        "deaths": 59
+      },
+      "Yemen": {
+        "cases": 1043,
+        "deaths": 88
+      }
+    }
+  },
+  {
+    "date": "2009-05-04",
+    "cities": {
+      "Aleppo": {
+        "cases": 14497,
+        "deaths": 1292
+      },
+      "Colombia": {
+        "cases": 3078,
+        "deaths": 197
+      },
+      "Iran": {
+        "cases": 5681,
+        "deaths": 210
+      },
+      "Karachi": {
+        "cases": 57640,
+        "deaths": 2633
+      },
+      "Lebanon": {
+        "cases": 1836,
+        "deaths": 139
+      },
+      "Nairobi": {
+        "cases": 8695,
+        "deaths": 892
+      },
+      "Saudi": {
+        "cases": 5990,
+        "deaths": 328
+      },
+      "Thailand": {
+        "cases": 510,
+        "deaths": 1
+      },
+      "Turkey": {
+        "cases": 1134,
+        "deaths": 2
+      },
+      "Venezuela": {
+        "cases": 913,
+        "deaths": 61
+      },
+      "Yemen": {
+        "cases": 2422,
+        "deaths": 105
+      }
+    }
+  },
+  {
+    "date": "2009-05-05",
+    "cities": {
+      "Aleppo": {
+        "cases": 20143,
+        "deaths": 1471
+      },
+      "Colombia": {
+        "cases": 5185,
+        "deaths": 205
+      },
+      "Iran": {
+        "cases": 2690,
+        "deaths": 227
+      },
+      "Karachi": {
+        "cases": 48193,
+        "deaths": 2956
+      },
+      "Lebanon": {
+        "cases": 3369,
+        "deaths": 156
+      },
+      "Nairobi": {
+        "cases": 13098,
+        "deaths": 984
+      },
+      "Saudi": {
+        "cases": 7487,
+        "deaths": 323
+      },
+      "Thailand": {
+        "cases": 318,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 785,
+        "deaths": 1
+      },
+      "Venezuela": {
+        "cases": 1237,
+        "deaths": 61
+      },
+      "Yemen": {
+        "cases": 1524,
+        "deaths": 119
+      }
+    }
+  },
+  {
+    "date": "2009-05-06",
+    "cities": {
+      "Aleppo": {
+        "cases": 21460,
+        "deaths": 1691
+      },
+      "Colombia": {
+        "cases": 3468,
+        "deaths": 246
+      },
+      "Iran": {
+        "cases": 2872,
+        "deaths": 206
+      },
+      "Karachi": {
+        "cases": 40397,
+        "deaths": 3287
+      },
+      "Lebanon": {
+        "cases": 2507,
+        "deaths": 157
+      },
+      "Nairobi": {
+        "cases": 12661,
+        "deaths": 1096
+      },
+      "Saudi": {
+        "cases": 7635,
+        "deaths": 365
+      },
+      "Thailand": {
+        "cases": 276,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 635,
+        "deaths": 1
+      },
+      "Venezuela": {
+        "cases": 1115,
+        "deaths": 69
+      },
+      "Yemen": {
+        "cases": 2232,
+        "deaths": 138
+      }
+    }
+  },
+  {
+    "date": "2009-05-07",
+    "cities": {
+      "Aleppo": {
+        "cases": 25129,
+        "deaths": 1927
+      },
+      "Colombia": {
+        "cases": 3492,
+        "deaths": 267
+      },
+      "Iran": {
+        "cases": 2156,
+        "deaths": 214
+      },
+      "Karachi": {
+        "cases": 50676,
+        "deaths": 3632
+      },
+      "Lebanon": {
+        "cases": 2747,
+        "deaths": 165
+      },
+      "Nairobi": {
+        "cases": 10773,
+        "deaths": 1186
+      },
+      "Saudi": {
+        "cases": 9969,
+        "deaths": 417
+      },
+      "Thailand": {
+        "cases": 154,
+        "deaths": 1
+      },
+      "Turkey": {
+        "cases": 1965,
+        "deaths": 2
+      },
+      "Venezuela": {
+        "cases": 827,
+        "deaths": 73
+      },
+      "Yemen": {
+        "cases": 1865,
+        "deaths": 165
+      }
+    }
+  },
+  {
+    "date": "2009-05-08",
+    "cities": {
+      "Aleppo": {
+        "cases": 18582,
+        "deaths": 2189
+      },
+      "Colombia": {
+        "cases": 4720,
+        "deaths": 288
+      },
+      "Iran": {
+        "cases": 4135,
+        "deaths": 240
+      },
+      "Karachi": {
+        "cases": 60788,
+        "deaths": 4156
+      },
+      "Lebanon": {
+        "cases": 2732,
+        "deaths": 171
+      },
+      "Nairobi": {
+        "cases": 12644,
+        "deaths": 1254
+      },
+      "Saudi": {
+        "cases": 6782,
+        "deaths": 442
+      },
+      "Thailand": {
+        "cases": 242,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1891,
+        "deaths": 3
+      },
+      "Venezuela": {
+        "cases": 797,
+        "deaths": 71
+      },
+      "Yemen": {
+        "cases": 1875,
+        "deaths": 181
+      }
+    }
+  },
+  {
+    "date": "2009-05-09",
+    "cities": {
+      "Aleppo": {
+        "cases": 23637,
+        "deaths": 2411
+      },
+      "Colombia": {
+        "cases": 4471,
+        "deaths": 312
+      },
+      "Iran": {
+        "cases": 3765,
+        "deaths": 252
+      },
+      "Karachi": {
+        "cases": 61956,
+        "deaths": 4608
+      },
+      "Lebanon": {
+        "cases": 2715,
+        "deaths": 167
+      },
+      "Nairobi": {
+        "cases": 14033,
+        "deaths": 1413
+      },
+      "Saudi": {
+        "cases": 10349,
+        "deaths": 481
+      },
+      "Thailand": {
+        "cases": 482,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 956,
+        "deaths": 2
+      },
+      "Venezuela": {
+        "cases": 1011,
+        "deaths": 80
+      },
+      "Yemen": {
+        "cases": 2307,
+        "deaths": 205
+      }
+    }
+  },
+  {
+    "date": "2009-05-10",
+    "cities": {
+      "Aleppo": {
+        "cases": 29121,
+        "deaths": 2745
+      },
+      "Colombia": {
+        "cases": 4839,
+        "deaths": 341
+      },
+      "Iran": {
+        "cases": 4326,
+        "deaths": 284
+      },
+      "Karachi": {
+        "cases": 69551,
+        "deaths": 5094
+      },
+      "Lebanon": {
+        "cases": 2395,
+        "deaths": 197
+      },
+      "Nairobi": {
+        "cases": 14611,
+        "deaths": 1558
+      },
+      "Saudi": {
+        "cases": 10649,
+        "deaths": 507
+      },
+      "Thailand": {
+        "cases": 551,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1782,
+        "deaths": 5
+      },
+      "Venezuela": {
+        "cases": 899,
+        "deaths": 90
+      },
+      "Yemen": {
+        "cases": 2976,
+        "deaths": 243
+      }
+    }
+  },
+  {
+    "date": "2009-05-11",
+    "cities": {
+      "Aleppo": {
+        "cases": 25669,
+        "deaths": 3004
+      },
+      "Colombia": {
+        "cases": 6357,
+        "deaths": 385
+      },
+      "Iran": {
+        "cases": 4416,
+        "deaths": 297
+      },
+      "Karachi": {
+        "cases": 83321,
+        "deaths": 5592
+      },
+      "Lebanon": {
+        "cases": 2391,
+        "deaths": 222
+      },
+      "Nairobi": {
+        "cases": 17705,
+        "deaths": 1681
+      },
+      "Saudi": {
+        "cases": 10501,
+        "deaths": 581
+      },
+      "Thailand": {
+        "cases": 509,
+        "deaths": 1
+      },
+      "Turkey": {
+        "cases": 1846,
+        "deaths": 3
+      },
+      "Venezuela": {
+        "cases": 1251,
+        "deaths": 103
+      },
+      "Yemen": {
+        "cases": 2667,
+        "deaths": 269
+      }
+    }
+  },
+  {
+    "date": "2009-05-12",
+    "cities": {
+      "Aleppo": {
+        "cases": 31446,
+        "deaths": 3205
+      },
+      "Colombia": {
+        "cases": 5542,
+        "deaths": 430
+      },
+      "Iran": {
+        "cases": 3197,
+        "deaths": 311
+      },
+      "Karachi": {
+        "cases": 62042,
+        "deaths": 5896
+      },
+      "Lebanon": {
+        "cases": 4171,
+        "deaths": 246
+      },
+      "Nairobi": {
+        "cases": 17604,
+        "deaths": 1835
+      },
+      "Saudi": {
+        "cases": 7367,
+        "deaths": 648
+      },
+      "Thailand": {
+        "cases": 401,
+        "deaths": 1
+      },
+      "Turkey": {
+        "cases": 980,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 1250,
+        "deaths": 109
+      },
+      "Yemen": {
+        "cases": 3208,
+        "deaths": 288
+      }
+    }
+  },
+  {
+    "date": "2009-05-13",
+    "cities": {
+      "Aleppo": {
+        "cases": 38812,
+        "deaths": 3426
+      },
+      "Colombia": {
+        "cases": 5899,
+        "deaths": 488
+      },
+      "Iran": {
+        "cases": 4380,
+        "deaths": 347
+      },
+      "Karachi": {
+        "cases": 67547,
+        "deaths": 6256
+      },
+      "Lebanon": {
+        "cases": 2961,
+        "deaths": 263
+      },
+      "Nairobi": {
+        "cases": 17875,
+        "deaths": 1899
+      },
+      "Saudi": {
+        "cases": 9580,
+        "deaths": 727
+      },
+      "Thailand": {
+        "cases": 348,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1285,
+        "deaths": 1
+      },
+      "Venezuela": {
+        "cases": 1697,
+        "deaths": 111
+      },
+      "Yemen": {
+        "cases": 3075,
+        "deaths": 313
+      }
+    }
+  },
+  {
+    "date": "2009-05-14",
+    "cities": {
+      "Aleppo": {
+        "cases": 34533,
+        "deaths": 3596
+      },
+      "Colombia": {
+        "cases": 6154,
+        "deaths": 525
+      },
+      "Iran": {
+        "cases": 3281,
+        "deaths": 383
+      },
+      "Karachi": {
+        "cases": 91091,
+        "deaths": 6727
+      },
+      "Lebanon": {
+        "cases": 3501,
+        "deaths": 292
+      },
+      "Nairobi": {
+        "cases": 18218,
+        "deaths": 1940
+      },
+      "Saudi": {
+        "cases": 9764,
+        "deaths": 769
+      },
+      "Thailand": {
+        "cases": 298,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1199,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 1152,
+        "deaths": 118
+      },
+      "Yemen": {
+        "cases": 3608,
+        "deaths": 334
+      }
+    }
+  },
+  {
+    "date": "2009-05-15",
+    "cities": {
+      "Aleppo": {
+        "cases": 32507,
+        "deaths": 3631
+      },
+      "Colombia": {
+        "cases": 5855,
+        "deaths": 579
+      },
+      "Iran": {
+        "cases": 3994,
+        "deaths": 426
+      },
+      "Karachi": {
+        "cases": 83879,
+        "deaths": 6967
+      },
+      "Lebanon": {
+        "cases": 3762,
+        "deaths": 297
+      },
+      "Nairobi": {
+        "cases": 16209,
+        "deaths": 1925
+      },
+      "Saudi": {
+        "cases": 10395,
+        "deaths": 835
+      },
+      "Thailand": {
+        "cases": 463,
+        "deaths": 1
+      },
+      "Turkey": {
+        "cases": 903,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 1267,
+        "deaths": 131
+      },
+      "Yemen": {
+        "cases": 3824,
+        "deaths": 355
+      }
+    }
+  },
+  {
+    "date": "2009-05-16",
+    "cities": {
+      "Aleppo": {
+        "cases": 33316,
+        "deaths": 3625
+      },
+      "Colombia": {
+        "cases": 7660,
+        "deaths": 607
+      },
+      "Iran": {
+        "cases": 5328,
+        "deaths": 457
+      },
+      "Karachi": {
+        "cases": 65420,
+        "deaths": 7096
+      },
+      "Lebanon": {
+        "cases": 4484,
+        "deaths": 302
+      },
+      "Nairobi": {
+        "cases": 18116,
+        "deaths": 1883
+      },
+      "Saudi": {
+        "cases": 8927,
+        "deaths": 889
+      },
+      "Thailand": {
+        "cases": 511,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 2050,
+        "deaths": 3
+      },
+      "Venezuela": {
+        "cases": 1234,
+        "deaths": 146
+      },
+      "Yemen": {
+        "cases": 4066,
+        "deaths": 349
+      }
+    }
+  },
+  {
+    "date": "2009-05-17",
+    "cities": {
+      "Aleppo": {
+        "cases": 33672,
+        "deaths": 3566
+      },
+      "Colombia": {
+        "cases": 5605,
+        "deaths": 653
+      },
+      "Iran": {
+        "cases": 4519,
+        "deaths": 474
+      },
+      "Karachi": {
+        "cases": 91151,
+        "deaths": 7150
+      },
+      "Lebanon": {
+        "cases": 3638,
+        "deaths": 318
+      },
+      "Nairobi": {
+        "cases": 15680,
+        "deaths": 1811
+      },
+      "Saudi": {
+        "cases": 8322,
+        "deaths": 874
+      },
+      "Thailand": {
+        "cases": 367,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 725,
+        "deaths": 3
+      },
+      "Venezuela": {
+        "cases": 1614,
+        "deaths": 151
+      },
+      "Yemen": {
+        "cases": 4010,
+        "deaths": 357
+      }
+    }
+  },
+  {
+    "date": "2009-05-18",
+    "cities": {
+      "Aleppo": {
+        "cases": 35780,
+        "deaths": 3372
+      },
+      "Colombia": {
+        "cases": 6691,
+        "deaths": 685
+      },
+      "Iran": {
+        "cases": 5765,
+        "deaths": 500
+      },
+      "Karachi": {
+        "cases": 57360,
+        "deaths": 7021
+      },
+      "Lebanon": {
+        "cases": 2318,
+        "deaths": 305
+      },
+      "Nairobi": {
+        "cases": 16903,
+        "deaths": 1692
+      },
+      "Saudi": {
+        "cases": 12513,
+        "deaths": 910
+      },
+      "Thailand": {
+        "cases": 191,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1331,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 1827,
+        "deaths": 160
+      },
+      "Yemen": {
+        "cases": 3935,
+        "deaths": 346
+      }
+    }
+  },
+  {
+    "date": "2009-05-19",
+    "cities": {
+      "Aleppo": {
+        "cases": 30761,
+        "deaths": 3124
+      },
+      "Colombia": {
+        "cases": 7076,
+        "deaths": 699
+      },
+      "Iran": {
+        "cases": 5694,
+        "deaths": 489
+      },
+      "Karachi": {
+        "cases": 51385,
+        "deaths": 6694
+      },
+      "Lebanon": {
+        "cases": 4482,
+        "deaths": 292
+      },
+      "Nairobi": {
+        "cases": 14136,
+        "deaths": 1556
+      },
+      "Saudi": {
+        "cases": 13503,
+        "deaths": 886
+      },
+      "Thailand": {
+        "cases": 424,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1404,
+        "deaths": 1
+      },
+      "Venezuela": {
+        "cases": 1850,
+        "deaths": 160
+      },
+      "Yemen": {
+        "cases": 3716,
+        "deaths": 320
+      }
+    }
+  },
+  {
+    "date": "2009-05-20",
+    "cities": {
+      "Aleppo": {
+        "cases": 30230,
+        "deaths": 2868
+      },
+      "Colombia": {
+        "cases": 7800,
+        "deaths": 689
+      },
+      "Iran": {
+        "cases": 5605,
+        "deaths": 484
+      },
+      "Karachi": {
+        "cases": 85079,
+        "deaths": 6339
+      },
+      "Lebanon": {
+        "cases": 2839,
+        "deaths": 265
+      },
+      "Nairobi": {
+        "cases": 15676,
+        "deaths": 1396
+      },
+      "Saudi": {
+        "cases": 10545,
+        "deaths": 847
+      },
+      "Thailand": {
+        "cases": 58,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1566,
+        "deaths": 1
+      },
+      "Venezuela": {
+        "cases": 1422,
+        "deaths": 151
+      },
+      "Yemen": {
+        "cases": 3302,
+        "deaths": 303
+      }
+    }
+  },
+  {
+    "date": "2009-05-21",
+    "cities": {
+      "Aleppo": {
+        "cases": 30128,
+        "deaths": 2567
+      },
+      "Colombia": {
+        "cases": 7430,
+        "deaths": 689
+      },
+      "Iran": {
+        "cases": 6679,
+        "deaths": 464
+      },
+      "Karachi": {
+        "cases": 59656,
+        "deaths": 5870
+      },
+      "Lebanon": {
+        "cases": 3547,
+        "deaths": 258
+      },
+      "Nairobi": {
+        "cases": 11865,
+        "deaths": 1261
+      },
+      "Saudi": {
+        "cases": 11085,
+        "deaths": 809
+      },
+      "Thailand": {
+        "cases": 626,
+        "deaths": 1
+      },
+      "Turkey": {
+        "cases": 814,
+        "deaths": 2
+      },
+      "Venezuela": {
+        "cases": 1222,
+        "deaths": 146
+      },
+      "Yemen": {
+        "cases": 2662,
+        "deaths": 290
+      }
+    }
+  },
+  {
+    "date": "2009-05-22",
+    "cities": {
+      "Aleppo": {
+        "cases": 23586,
+        "deaths": 2299
+      },
+      "Colombia": {
+        "cases": 7417,
+        "deaths": 652
+      },
+      "Iran": {
+        "cases": 5659,
+        "deaths": 431
+      },
+      "Karachi": {
+        "cases": 72381,
+        "deaths": 5343
+      },
+      "Lebanon": {
+        "cases": 2159,
+        "deaths": 235
+      },
+      "Nairobi": {
+        "cases": 11046,
+        "deaths": 1096
+      },
+      "Saudi": {
+        "cases": 9241,
+        "deaths": 753
+      },
+      "Thailand": {
+        "cases": 452,
+        "deaths": 1
+      },
+      "Turkey": {
+        "cases": 1472,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 1726,
+        "deaths": 135
+      },
+      "Yemen": {
+        "cases": 2311,
+        "deaths": 258
+      }
+    }
+  },
+  {
+    "date": "2009-05-23",
+    "cities": {
+      "Aleppo": {
+        "cases": 22904,
+        "deaths": 1995
+      },
+      "Colombia": {
+        "cases": 8743,
+        "deaths": 635
+      },
+      "Iran": {
+        "cases": 5007,
+        "deaths": 386
+      },
+      "Karachi": {
+        "cases": 44950,
+        "deaths": 4735
+      },
+      "Lebanon": {
+        "cases": 2855,
+        "deaths": 205
+      },
+      "Nairobi": {
+        "cases": 11332,
+        "deaths": 946
+      },
+      "Saudi": {
+        "cases": 11164,
+        "deaths": 682
+      },
+      "Thailand": {
+        "cases": 82,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1030,
+        "deaths": 3
+      },
+      "Venezuela": {
+        "cases": 1791,
+        "deaths": 124
+      },
+      "Yemen": {
+        "cases": 3252,
+        "deaths": 220
+      }
+    }
+  },
+  {
+    "date": "2009-05-24",
+    "cities": {
+      "Aleppo": {
+        "cases": 19266,
+        "deaths": 1727
+      },
+      "Colombia": {
+        "cases": 6189,
+        "deaths": 574
+      },
+      "Iran": {
+        "cases": 5291,
+        "deaths": 373
+      },
+      "Karachi": {
+        "cases": 60901,
+        "deaths": 4173
+      },
+      "Lebanon": {
+        "cases": 4400,
+        "deaths": 188
+      },
+      "Nairobi": {
+        "cases": 10233,
+        "deaths": 822
+      },
+      "Saudi": {
+        "cases": 10471,
+        "deaths": 628
+      },
+      "Thailand": {
+        "cases": 461,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1489,
+        "deaths": 1
+      },
+      "Venezuela": {
+        "cases": 1107,
+        "deaths": 112
+      },
+      "Yemen": {
+        "cases": 3172,
+        "deaths": 198
+      }
+    }
+  },
+  {
+    "date": "2009-05-25",
+    "cities": {
+      "Aleppo": {
+        "cases": 19434,
+        "deaths": 1477
+      },
+      "Colombia": {
+        "cases": 6434,
+        "deaths": 526
+      },
+      "Iran": {
+        "cases": 4626,
+        "deaths": 328
+      },
+      "Karachi": {
+        "cases": 53919,
+        "deaths": 3616
+      },
+      "Lebanon": {
+        "cases": 1400,
+        "deaths": 158
+      },
+      "Nairobi": {
+        "cases": 9608,
+        "deaths": 695
+      },
+      "Saudi": {
+        "cases": 7661,
+        "deaths": 557
+      },
+      "Thailand": {
+        "cases": 397,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 0,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 1410,
+        "deaths": 106
+      },
+      "Yemen": {
+        "cases": 2213,
+        "deaths": 177
+      }
+    }
+  },
+  {
+    "date": "2009-05-26",
+    "cities": {
+      "Aleppo": {
+        "cases": 13645,
+        "deaths": 1256
+      },
+      "Colombia": {
+        "cases": 5637,
+        "deaths": 465
+      },
+      "Iran": {
+        "cases": 4101,
+        "deaths": 283
+      },
+      "Karachi": {
+        "cases": 32184,
+        "deaths": 3092
+      },
+      "Lebanon": {
+        "cases": 2102,
+        "deaths": 141
+      },
+      "Nairobi": {
+        "cases": 8054,
+        "deaths": 584
+      },
+      "Saudi": {
+        "cases": 6112,
+        "deaths": 469
+      },
+      "Thailand": {
+        "cases": 375,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1320,
+        "deaths": 2
+      },
+      "Venezuela": {
+        "cases": 1284,
+        "deaths": 90
+      },
+      "Yemen": {
+        "cases": 2112,
+        "deaths": 149
+      }
+    }
+  },
+  {
+    "date": "2009-05-27",
+    "cities": {
+      "Aleppo": {
+        "cases": 12638,
+        "deaths": 1050
+      },
+      "Colombia": {
+        "cases": 4760,
+        "deaths": 413
+      },
+      "Iran": {
+        "cases": 4812,
+        "deaths": 252
+      },
+      "Karachi": {
+        "cases": 61425,
+        "deaths": 2686
+      },
+      "Lebanon": {
+        "cases": 1639,
+        "deaths": 112
+      },
+      "Nairobi": {
+        "cases": 9051,
+        "deaths": 498
+      },
+      "Saudi": {
+        "cases": 8425,
+        "deaths": 403
+      },
+      "Thailand": {
+        "cases": 428,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1788,
+        "deaths": 2
+      },
+      "Venezuela": {
+        "cases": 860,
+        "deaths": 75
+      },
+      "Yemen": {
+        "cases": 2070,
+        "deaths": 123
+      }
+    }
+  },
+  {
+    "date": "2009-05-28",
+    "cities": {
+      "Aleppo": {
+        "cases": 14327,
+        "deaths": 887
+      },
+      "Colombia": {
+        "cases": 6338,
+        "deaths": 349
+      },
+      "Iran": {
+        "cases": 3009,
+        "deaths": 215
+      },
+      "Karachi": {
+        "cases": 32274,
+        "deaths": 2210
+      },
+      "Lebanon": {
+        "cases": 2922,
+        "deaths": 91
+      },
+      "Nairobi": {
+        "cases": 4964,
+        "deaths": 404
+      },
+      "Saudi": {
+        "cases": 9454,
+        "deaths": 341
+      },
+      "Thailand": {
+        "cases": 458,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1652,
+        "deaths": 1
+      },
+      "Venezuela": {
+        "cases": 926,
+        "deaths": 63
+      },
+      "Yemen": {
+        "cases": 761,
+        "deaths": 101
+      }
+    }
+  },
+  {
+    "date": "2009-05-29",
+    "cities": {
+      "Aleppo": {
+        "cases": 11095,
+        "deaths": 730
+      },
+      "Colombia": {
+        "cases": 4360,
+        "deaths": 304
+      },
+      "Iran": {
+        "cases": 4104,
+        "deaths": 185
+      },
+      "Karachi": {
+        "cases": 32503,
+        "deaths": 1867
+      },
+      "Lebanon": {
+        "cases": 2840,
+        "deaths": 84
+      },
+      "Nairobi": {
+        "cases": 6084,
+        "deaths": 334
+      },
+      "Saudi": {
+        "cases": 8067,
+        "deaths": 284
+      },
+      "Thailand": {
+        "cases": 455,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1654,
+        "deaths": 2
+      },
+      "Venezuela": {
+        "cases": 740,
+        "deaths": 59
+      },
+      "Yemen": {
+        "cases": 2226,
+        "deaths": 88
+      }
+    }
+  },
+  {
+    "date": "2009-05-30",
+    "cities": {
+      "Aleppo": {
+        "cases": 6807,
+        "deaths": 589
+      },
+      "Colombia": {
+        "cases": 3702,
+        "deaths": 254
+      },
+      "Iran": {
+        "cases": 3499,
+        "deaths": 159
+      },
+      "Karachi": {
+        "cases": 39186,
+        "deaths": 1581
+      },
+      "Lebanon": {
+        "cases": 1036,
+        "deaths": 70
+      },
+      "Nairobi": {
+        "cases": 11419,
+        "deaths": 275
+      },
+      "Saudi": {
+        "cases": 6104,
+        "deaths": 238
+      },
+      "Thailand": {
+        "cases": 596,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1933,
+        "deaths": 1
+      },
+      "Venezuela": {
+        "cases": 384,
+        "deaths": 46
+      },
+      "Yemen": {
+        "cases": 1368,
+        "deaths": 72
+      }
+    }
+  },
+  {
+    "date": "2009-05-31",
+    "cities": {
+      "Aleppo": {
+        "cases": 8811,
+        "deaths": 507
+      },
+      "Colombia": {
+        "cases": 4064,
+        "deaths": 226
+      },
+      "Iran": {
+        "cases": 2460,
+        "deaths": 129
+      },
+      "Karachi": {
+        "cases": 32495,
+        "deaths": 1297
+      },
+      "Lebanon": {
+        "cases": 1162,
+        "deaths": 58
+      },
+      "Nairobi": {
+        "cases": 4733,
+        "deaths": 232
+      },
+      "Saudi": {
+        "cases": 7856,
+        "deaths": 204
+      },
+      "Thailand": {
+        "cases": 283,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1900,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 788,
+        "deaths": 43
+      },
+      "Yemen": {
+        "cases": 1432,
+        "deaths": 60
+      }
+    }
+  },
+  {
+    "date": "2009-06-01",
+    "cities": {
+      "Aleppo": {
+        "cases": 10458,
+        "deaths": 413
+      },
+      "Colombia": {
+        "cases": 2615,
+        "deaths": 177
+      },
+      "Iran": {
+        "cases": 2922,
+        "deaths": 111
+      },
+      "Karachi": {
+        "cases": 36221,
+        "deaths": 1087
+      },
+      "Lebanon": {
+        "cases": 2005,
+        "deaths": 48
+      },
+      "Nairobi": {
+        "cases": 5468,
+        "deaths": 196
+      },
+      "Saudi": {
+        "cases": 4844,
+        "deaths": 175
+      },
+      "Thailand": {
+        "cases": 507,
+        "deaths": 2
+      },
+      "Turkey": {
+        "cases": 581,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 802,
+        "deaths": 37
+      },
+      "Yemen": {
+        "cases": 1532,
+        "deaths": 51
+      }
+    }
+  },
+  {
+    "date": "2009-06-02",
+    "cities": {
+      "Aleppo": {
+        "cases": 9142,
+        "deaths": 334
+      },
+      "Colombia": {
+        "cases": 3815,
+        "deaths": 154
+      },
+      "Iran": {
+        "cases": 2569,
+        "deaths": 93
+      },
+      "Karachi": {
+        "cases": 37946,
+        "deaths": 884
+      },
+      "Lebanon": {
+        "cases": 2607,
+        "deaths": 38
+      },
+      "Nairobi": {
+        "cases": 6127,
+        "deaths": 163
+      },
+      "Saudi": {
+        "cases": 4403,
+        "deaths": 137
+      },
+      "Thailand": {
+        "cases": 276,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1708,
+        "deaths": 2
+      },
+      "Venezuela": {
+        "cases": 710,
+        "deaths": 29
+      },
+      "Yemen": {
+        "cases": 1449,
+        "deaths": 47
+      }
+    }
+  },
+  {
+    "date": "2009-06-03",
+    "cities": {
+      "Aleppo": {
+        "cases": 2050,
+        "deaths": 275
+      },
+      "Colombia": {
+        "cases": 2448,
+        "deaths": 126
+      },
+      "Iran": {
+        "cases": 3326,
+        "deaths": 83
+      },
+      "Karachi": {
+        "cases": 22396,
+        "deaths": 708
+      },
+      "Lebanon": {
+        "cases": 2571,
+        "deaths": 35
+      },
+      "Nairobi": {
+        "cases": 6463,
+        "deaths": 125
+      },
+      "Saudi": {
+        "cases": 5066,
+        "deaths": 113
+      },
+      "Thailand": {
+        "cases": 212,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1350,
+        "deaths": 1
+      },
+      "Venezuela": {
+        "cases": 648,
+        "deaths": 23
+      },
+      "Yemen": {
+        "cases": 857,
+        "deaths": 34
+      }
+    }
+  },
+  {
+    "date": "2009-06-04",
+    "cities": {
+      "Aleppo": {
+        "cases": 8781,
+        "deaths": 222
+      },
+      "Colombia": {
+        "cases": 3150,
+        "deaths": 103
+      },
+      "Iran": {
+        "cases": 2883,
+        "deaths": 62
+      },
+      "Karachi": {
+        "cases": 39399,
+        "deaths": 620
+      },
+      "Lebanon": {
+        "cases": 2715,
+        "deaths": 27
+      },
+      "Nairobi": {
+        "cases": 4414,
+        "deaths": 109
+      },
+      "Saudi": {
+        "cases": 3755,
+        "deaths": 99
+      },
+      "Thailand": {
+        "cases": 339,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1343,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 265,
+        "deaths": 22
+      },
+      "Yemen": {
+        "cases": 1269,
+        "deaths": 28
+      }
+    }
+  },
+  {
+    "date": "2009-06-05",
+    "cities": {
+      "Aleppo": {
+        "cases": 11193,
+        "deaths": 197
+      },
+      "Colombia": {
+        "cases": 4209,
+        "deaths": 97
+      },
+      "Iran": {
+        "cases": 3327,
+        "deaths": 51
+      },
+      "Karachi": {
+        "cases": 50281,
+        "deaths": 514
+      },
+      "Lebanon": {
+        "cases": 2026,
+        "deaths": 25
+      },
+      "Nairobi": {
+        "cases": 1757,
+        "deaths": 83
+      },
+      "Saudi": {
+        "cases": 7732,
+        "deaths": 82
+      },
+      "Thailand": {
+        "cases": 451,
+        "deaths": 1
+      },
+      "Turkey": {
+        "cases": 561,
+        "deaths": 3
+      },
+      "Venezuela": {
+        "cases": 175,
+        "deaths": 17
+      },
+      "Yemen": {
+        "cases": 669,
+        "deaths": 23
+      }
+    }
+  },
+  {
+    "date": "2009-06-06",
+    "cities": {
+      "Aleppo": {
+        "cases": 10093,
+        "deaths": 149
+      },
+      "Colombia": {
+        "cases": 2886,
+        "deaths": 71
+      },
+      "Iran": {
+        "cases": 926,
+        "deaths": 42
+      },
+      "Karachi": {
+        "cases": 27481,
+        "deaths": 402
+      },
+      "Lebanon": {
+        "cases": 1249,
+        "deaths": 18
+      },
+      "Nairobi": {
+        "cases": 515,
+        "deaths": 66
+      },
+      "Saudi": {
+        "cases": 3526,
+        "deaths": 67
+      },
+      "Thailand": {
+        "cases": 448,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1373,
+        "deaths": 3
+      },
+      "Venezuela": {
+        "cases": 801,
+        "deaths": 13
+      },
+      "Yemen": {
+        "cases": 1361,
+        "deaths": 17
+      }
+    }
+  },
+  {
+    "date": "2009-06-07",
+    "cities": {
+      "Aleppo": {
+        "cases": 8932,
+        "deaths": 125
+      },
+      "Colombia": {
+        "cases": 2519,
+        "deaths": 57
+      },
+      "Iran": {
+        "cases": 1554,
+        "deaths": 33
+      },
+      "Karachi": {
+        "cases": 28530,
+        "deaths": 341
+      },
+      "Lebanon": {
+        "cases": 3118,
+        "deaths": 16
+      },
+      "Nairobi": {
+        "cases": 3524,
+        "deaths": 59
+      },
+      "Saudi": {
+        "cases": 4884,
+        "deaths": 53
+      },
+      "Thailand": {
+        "cases": 453,
+        "deaths": 3
+      },
+      "Turkey": {
+        "cases": 632,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 564,
+        "deaths": 11
+      },
+      "Yemen": {
+        "cases": 853,
+        "deaths": 14
+      }
+    }
+  },
+  {
+    "date": "2009-06-08",
+    "cities": {
+      "Aleppo": {
+        "cases": 4110,
+        "deaths": 104
+      },
+      "Colombia": {
+        "cases": 3479,
+        "deaths": 47
+      },
+      "Iran": {
+        "cases": 3485,
+        "deaths": 29
+      },
+      "Karachi": {
+        "cases": 26419,
+        "deaths": 283
+      },
+      "Lebanon": {
+        "cases": 1260,
+        "deaths": 13
+      },
+      "Nairobi": {
+        "cases": 6827,
+        "deaths": 50
+      },
+      "Saudi": {
+        "cases": 5796,
+        "deaths": 50
+      },
+      "Thailand": {
+        "cases": 544,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1051,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 425,
+        "deaths": 7
+      },
+      "Yemen": {
+        "cases": 772,
+        "deaths": 12
+      }
+    }
+  },
+  {
+    "date": "2009-06-09",
+    "cities": {
+      "Aleppo": {
+        "cases": 4073,
+        "deaths": 82
+      },
+      "Colombia": {
+        "cases": 2532,
+        "deaths": 43
+      },
+      "Iran": {
+        "cases": 1873,
+        "deaths": 23
+      },
+      "Karachi": {
+        "cases": 39331,
+        "deaths": 258
+      },
+      "Lebanon": {
+        "cases": 1118,
+        "deaths": 11
+      },
+      "Nairobi": {
+        "cases": 5981,
+        "deaths": 40
+      },
+      "Saudi": {
+        "cases": 5362,
+        "deaths": 41
+      },
+      "Thailand": {
+        "cases": 76,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 842,
+        "deaths": 1
+      },
+      "Venezuela": {
+        "cases": 522,
+        "deaths": 9
+      },
+      "Yemen": {
+        "cases": 1064,
+        "deaths": 13
+      }
+    }
+  },
+  {
+    "date": "2009-06-10",
+    "cities": {
+      "Aleppo": {
+        "cases": 8609,
+        "deaths": 78
+      },
+      "Colombia": {
+        "cases": 3919,
+        "deaths": 36
+      },
+      "Iran": {
+        "cases": 1749,
+        "deaths": 19
+      },
+      "Karachi": {
+        "cases": 15079,
+        "deaths": 187
+      },
+      "Lebanon": {
+        "cases": 2256,
+        "deaths": 9
+      },
+      "Nairobi": {
+        "cases": 5594,
+        "deaths": 34
+      },
+      "Saudi": {
+        "cases": 6929,
+        "deaths": 31
+      },
+      "Thailand": {
+        "cases": 507,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 660,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 847,
+        "deaths": 6
+      },
+      "Yemen": {
+        "cases": 575,
+        "deaths": 9
+      }
+    }
+  },
+  {
+    "date": "2009-06-11",
+    "cities": {
+      "Aleppo": {
+        "cases": 7830,
+        "deaths": 58
+      },
+      "Colombia": {
+        "cases": 908,
+        "deaths": 25
+      },
+      "Iran": {
+        "cases": 1468,
+        "deaths": 13
+      },
+      "Karachi": {
+        "cases": 31961,
+        "deaths": 168
+      },
+      "Lebanon": {
+        "cases": 2434,
+        "deaths": 7
+      },
+      "Nairobi": {
+        "cases": 3442,
+        "deaths": 26
+      },
+      "Saudi": {
+        "cases": 5310,
+        "deaths": 28
+      },
+      "Thailand": {
+        "cases": 491,
+        "deaths": 2
+      },
+      "Turkey": {
+        "cases": 1016,
+        "deaths": 3
+      },
+      "Venezuela": {
+        "cases": 796,
+        "deaths": 6
+      },
+      "Yemen": {
+        "cases": 681,
+        "deaths": 7
+      }
+    }
+  },
+  {
+    "date": "2009-06-12",
+    "cities": {
+      "Aleppo": {
+        "cases": 7441,
+        "deaths": 51
+      },
+      "Colombia": {
+        "cases": 2679,
+        "deaths": 23
+      },
+      "Iran": {
+        "cases": 1751,
+        "deaths": 12
+      },
+      "Karachi": {
+        "cases": 18103,
+        "deaths": 135
+      },
+      "Lebanon": {
+        "cases": 2080,
+        "deaths": 6
+      },
+      "Nairobi": {
+        "cases": 4636,
+        "deaths": 24
+      },
+      "Saudi": {
+        "cases": 4616,
+        "deaths": 19
+      },
+      "Thailand": {
+        "cases": 278,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1983,
+        "deaths": 2
+      },
+      "Venezuela": {
+        "cases": 120,
+        "deaths": 4
+      },
+      "Yemen": {
+        "cases": 1158,
+        "deaths": 6
+      }
+    }
+  },
+  {
+    "date": "2009-06-13",
+    "cities": {
+      "Aleppo": {
+        "cases": 3226,
+        "deaths": 37
+      },
+      "Colombia": {
+        "cases": 3269,
+        "deaths": 21
+      },
+      "Iran": {
+        "cases": 1657,
+        "deaths": 11
+      },
+      "Karachi": {
+        "cases": 20836,
+        "deaths": 112
+      },
+      "Lebanon": {
+        "cases": 1136,
+        "deaths": 6
+      },
+      "Nairobi": {
+        "cases": 2780,
+        "deaths": 20
+      },
+      "Saudi": {
+        "cases": 6311,
+        "deaths": 19
+      },
+      "Thailand": {
+        "cases": 161,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1001,
+        "deaths": 1
+      },
+      "Venezuela": {
+        "cases": 464,
+        "deaths": 3
+      },
+      "Yemen": {
+        "cases": 1259,
+        "deaths": 5
+      }
+    }
+  },
+  {
+    "date": "2009-06-14",
+    "cities": {
+      "Aleppo": {
+        "cases": 4532,
+        "deaths": 30
+      },
+      "Colombia": {
+        "cases": 3321,
+        "deaths": 18
+      },
+      "Iran": {
+        "cases": 1892,
+        "deaths": 12
+      },
+      "Karachi": {
+        "cases": 548,
+        "deaths": 76
+      },
+      "Lebanon": {
+        "cases": 2720,
+        "deaths": 3
+      },
+      "Nairobi": {
+        "cases": 3431,
+        "deaths": 13
+      },
+      "Saudi": {
+        "cases": 1281,
+        "deaths": 14
+      },
+      "Thailand": {
+        "cases": 130,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 609,
+        "deaths": 1
+      },
+      "Venezuela": {
+        "cases": 652,
+        "deaths": 3
+      },
+      "Yemen": {
+        "cases": 1099,
+        "deaths": 5
+      }
+    }
+  },
+  {
+    "date": "2009-06-15",
+    "cities": {
+      "Aleppo": {
+        "cases": 5452,
+        "deaths": 30
+      },
+      "Colombia": {
+        "cases": 2692,
+        "deaths": 13
+      },
+      "Iran": {
+        "cases": 48,
+        "deaths": 5
+      },
+      "Karachi": {
+        "cases": 23314,
+        "deaths": 88
+      },
+      "Lebanon": {
+        "cases": 1191,
+        "deaths": 3
+      },
+      "Nairobi": {
+        "cases": 5466,
+        "deaths": 19
+      },
+      "Saudi": {
+        "cases": 4598,
+        "deaths": 20
+      },
+      "Thailand": {
+        "cases": 373,
+        "deaths": 1
+      },
+      "Turkey": {
+        "cases": 1717,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 577,
+        "deaths": 3
+      },
+      "Yemen": {
+        "cases": 948,
+        "deaths": 4
+      }
+    }
+  },
+  {
+    "date": "2009-06-16",
+    "cities": {
+      "Aleppo": {
+        "cases": 7561,
+        "deaths": 29
+      },
+      "Colombia": {
+        "cases": 1695,
+        "deaths": 11
+      },
+      "Iran": {
+        "cases": 1146,
+        "deaths": 7
+      },
+      "Karachi": {
+        "cases": 32231,
+        "deaths": 75
+      },
+      "Lebanon": {
+        "cases": 946,
+        "deaths": 4
+      },
+      "Nairobi": {
+        "cases": 5126,
+        "deaths": 11
+      },
+      "Saudi": {
+        "cases": 1267,
+        "deaths": 10
+      },
+      "Thailand": {
+        "cases": 481,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 839,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 397,
+        "deaths": 4
+      },
+      "Yemen": {
+        "cases": 1401,
+        "deaths": 5
+      }
+    }
+  },
+  {
+    "date": "2009-06-17",
+    "cities": {
+      "Aleppo": {
+        "cases": 8900,
+        "deaths": 17
+      },
+      "Colombia": {
+        "cases": 3079,
+        "deaths": 6
+      },
+      "Iran": {
+        "cases": 1854,
+        "deaths": 7
+      },
+      "Karachi": {
+        "cases": 18583,
+        "deaths": 62
+      },
+      "Lebanon": {
+        "cases": 2592,
+        "deaths": 3
+      },
+      "Nairobi": {
+        "cases": 3151,
+        "deaths": 3
+      },
+      "Saudi": {
+        "cases": 4517,
+        "deaths": 10
+      },
+      "Thailand": {
+        "cases": 448,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 740,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 460,
+        "deaths": 1
+      },
+      "Yemen": {
+        "cases": 539,
+        "deaths": 2
+      }
+    }
+  },
+  {
+    "date": "2009-06-18",
+    "cities": {
+      "Aleppo": {
+        "cases": 5787,
+        "deaths": 10
+      },
+      "Colombia": {
+        "cases": 1121,
+        "deaths": 8
+      },
+      "Iran": {
+        "cases": 2746,
+        "deaths": 7
+      },
+      "Karachi": {
+        "cases": 30419,
+        "deaths": 58
+      },
+      "Lebanon": {
+        "cases": 1877,
+        "deaths": 2
+      },
+      "Nairobi": {
+        "cases": 3197,
+        "deaths": 3
+      },
+      "Saudi": {
+        "cases": 1916,
+        "deaths": 7
+      },
+      "Thailand": {
+        "cases": 235,
+        "deaths": 2
+      },
+      "Turkey": {
+        "cases": 1718,
+        "deaths": 1
+      },
+      "Venezuela": {
+        "cases": 555,
+        "deaths": 1
+      },
+      "Yemen": {
+        "cases": 1534,
+        "deaths": 4
+      }
+    }
+  },
+  {
+    "date": "2009-06-19",
+    "cities": {
+      "Aleppo": {
+        "cases": 7909,
+        "deaths": 6
+      },
+      "Colombia": {
+        "cases": 2603,
+        "deaths": 7
+      },
+      "Iran": {
+        "cases": 1193,
+        "deaths": 2
+      },
+      "Karachi": {
+        "cases": 7227,
+        "deaths": 14
+      },
+      "Lebanon": {
+        "cases": 1972,
+        "deaths": 1
+      },
+      "Nairobi": {
+        "cases": 2352,
+        "deaths": 5
+      },
+      "Saudi": {
+        "cases": 5464,
+        "deaths": 11
+      },
+      "Thailand": {
+        "cases": 806,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 943,
+        "deaths": 1
+      },
+      "Venezuela": {
+        "cases": 556,
+        "deaths": 1
+      },
+      "Yemen": {
+        "cases": 845,
+        "deaths": 1
+      }
+    }
+  },
+  {
+    "date": "2009-06-20",
+    "cities": {
+      "Aleppo": {
+        "cases": 6000,
+        "deaths": 5
+      },
+      "Colombia": {
+        "cases": 3087,
+        "deaths": 7
+      },
+      "Iran": {
+        "cases": 516,
+        "deaths": 3
+      },
+      "Karachi": {
+        "cases": 9925,
+        "deaths": 18
+      },
+      "Lebanon": {
+        "cases": 1197,
+        "deaths": 0
+      },
+      "Nairobi": {
+        "cases": 3137,
+        "deaths": 3
+      },
+      "Saudi": {
+        "cases": 6402,
+        "deaths": 7
+      },
+      "Thailand": {
+        "cases": 226,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 744,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 420,
+        "deaths": 2
+      },
+      "Yemen": {
+        "cases": 1239,
+        "deaths": 1
+      }
+    }
+  },
+  {
+    "date": "2009-06-21",
+    "cities": {
+      "Aleppo": {
+        "cases": 7948,
+        "deaths": 7
+      },
+      "Colombia": {
+        "cases": 3740,
+        "deaths": 5
+      },
+      "Iran": {
+        "cases": 1284,
+        "deaths": 2
+      },
+      "Karachi": {
+        "cases": 36099,
+        "deaths": 39
+      },
+      "Lebanon": {
+        "cases": 1196,
+        "deaths": 3
+      },
+      "Nairobi": {
+        "cases": 4142,
+        "deaths": 2
+      },
+      "Saudi": {
+        "cases": 5481,
+        "deaths": 3
+      },
+      "Thailand": {
+        "cases": 60,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 891,
+        "deaths": 1
+      },
+      "Venezuela": {
+        "cases": 605,
+        "deaths": 0
+      },
+      "Yemen": {
+        "cases": 1221,
+        "deaths": 3
+      }
+    }
+  },
+  {
+    "date": "2009-06-22",
+    "cities": {
+      "Aleppo": {
+        "cases": 6708,
+        "deaths": 9
+      },
+      "Colombia": {
+        "cases": 3102,
+        "deaths": 6
+      },
+      "Iran": {
+        "cases": 2139,
+        "deaths": 4
+      },
+      "Karachi": {
+        "cases": 18195,
+        "deaths": 16
+      },
+      "Lebanon": {
+        "cases": 1977,
+        "deaths": 3
+      },
+      "Nairobi": {
+        "cases": 5581,
+        "deaths": 5
+      },
+      "Saudi": {
+        "cases": 5260,
+        "deaths": 5
+      },
+      "Thailand": {
+        "cases": 0,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1408,
+        "deaths": 1
+      },
+      "Venezuela": {
+        "cases": 822,
+        "deaths": 0
+      },
+      "Yemen": {
+        "cases": 765,
+        "deaths": 1
+      }
+    }
+  },
+  {
+    "date": "2009-06-23",
+    "cities": {
+      "Aleppo": {
+        "cases": 4698,
+        "deaths": 4
+      },
+      "Colombia": {
+        "cases": 2862,
+        "deaths": 5
+      },
+      "Iran": {
+        "cases": 3517,
+        "deaths": 5
+      },
+      "Karachi": {
+        "cases": 22961,
+        "deaths": 19
+      },
+      "Lebanon": {
+        "cases": 706,
+        "deaths": 0
+      },
+      "Nairobi": {
+        "cases": 3446,
+        "deaths": 4
+      },
+      "Saudi": {
+        "cases": 4867,
+        "deaths": 3
+      },
+      "Thailand": {
+        "cases": 0,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1399,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 263,
+        "deaths": 0
+      },
+      "Yemen": {
+        "cases": 1290,
+        "deaths": 1
+      }
+    }
+  },
+  {
+    "date": "2009-06-24",
+    "cities": {
+      "Aleppo": {
+        "cases": 5775,
+        "deaths": 10
+      },
+      "Colombia": {
+        "cases": 2975,
+        "deaths": 5
+      },
+      "Iran": {
+        "cases": 1642,
+        "deaths": 2
+      },
+      "Karachi": {
+        "cases": 34291,
+        "deaths": 33
+      },
+      "Lebanon": {
+        "cases": 2204,
+        "deaths": 0
+      },
+      "Nairobi": {
+        "cases": 4414,
+        "deaths": 1
+      },
+      "Saudi": {
+        "cases": 4728,
+        "deaths": 3
+      },
+      "Thailand": {
+        "cases": 0,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1731,
+        "deaths": 2
+      },
+      "Venezuela": {
+        "cases": 629,
+        "deaths": 0
+      },
+      "Yemen": {
+        "cases": 1179,
+        "deaths": 0
+      }
+    }
+  },
+  {
+    "date": "2009-06-25",
+    "cities": {
+      "Aleppo": {
+        "cases": 4411,
+        "deaths": 4
+      },
+      "Colombia": {
+        "cases": 2513,
+        "deaths": 3
+      },
+      "Iran": {
+        "cases": 2046,
+        "deaths": 2
+      },
+      "Karachi": {
+        "cases": 30949,
+        "deaths": 21
+      },
+      "Lebanon": {
+        "cases": 914,
+        "deaths": 0
+      },
+      "Nairobi": {
+        "cases": 2935,
+        "deaths": 0
+      },
+      "Saudi": {
+        "cases": 6892,
+        "deaths": 5
+      },
+      "Thailand": {
+        "cases": 0,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 987,
+        "deaths": 2
+      },
+      "Venezuela": {
+        "cases": 608,
+        "deaths": 0
+      },
+      "Yemen": {
+        "cases": 1102,
+        "deaths": 0
+      }
+    }
+  },
+  {
+    "date": "2009-06-26",
+    "cities": {
+      "Aleppo": {
+        "cases": 2157,
+        "deaths": 1
+      },
+      "Colombia": {
+        "cases": 3007,
+        "deaths": 3
+      },
+      "Iran": {
+        "cases": 939,
+        "deaths": 1
+      },
+      "Karachi": {
+        "cases": 13351,
+        "deaths": 4
+      },
+      "Lebanon": {
+        "cases": 1344,
+        "deaths": 1
+      },
+      "Nairobi": {
+        "cases": 6581,
+        "deaths": 1
+      },
+      "Saudi": {
+        "cases": 5945,
+        "deaths": 2
+      },
+      "Thailand": {
+        "cases": 0,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 1290,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 497,
+        "deaths": 1
+      },
+      "Yemen": {
+        "cases": 1160,
+        "deaths": 1
+      }
+    }
+  },
+  {
+    "date": "2009-06-27",
+    "cities": {
+      "Aleppo": {
+        "cases": 10027,
+        "deaths": 1
+      },
+      "Colombia": {
+        "cases": 7,
+        "deaths": 0
+      },
+      "Iran": {
+        "cases": 1705,
+        "deaths": 0
+      },
+      "Karachi": {
+        "cases": 31513,
+        "deaths": 2
+      },
+      "Lebanon": {
+        "cases": 1957,
+        "deaths": 0
+      },
+      "Nairobi": {
+        "cases": 2948,
+        "deaths": 0
+      },
+      "Saudi": {
+        "cases": 4588,
+        "deaths": 0
+      },
+      "Thailand": {
+        "cases": 0,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 2011,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 441,
+        "deaths": 0
+      },
+      "Yemen": {
+        "cases": 1452,
+        "deaths": 1
+      }
+    }
+  },
+  {
+    "date": "2009-06-28",
+    "cities": {
+      "Aleppo": {
+        "cases": 9700,
+        "deaths": 0
+      },
+      "Colombia": {
+        "cases": 2152,
+        "deaths": 0
+      },
+      "Iran": {
+        "cases": 2038,
+        "deaths": 0
+      },
+      "Karachi": {
+        "cases": 21020,
+        "deaths": 0
+      },
+      "Lebanon": {
+        "cases": 1239,
+        "deaths": 0
+      },
+      "Nairobi": {
+        "cases": 5793,
+        "deaths": 0
+      },
+      "Saudi": {
+        "cases": 4292,
+        "deaths": 0
+      },
+      "Thailand": {
+        "cases": 0,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 849,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 240,
+        "deaths": 0
+      },
+      "Yemen": {
+        "cases": 1291,
+        "deaths": 0
+      }
+    }
+  },
+  {
+    "date": "2009-06-29",
+    "cities": {
+      "Aleppo": {
+        "cases": 4244,
+        "deaths": 0
+      },
+      "Colombia": {
+        "cases": 1085,
+        "deaths": 0
+      },
+      "Iran": {
+        "cases": 977,
+        "deaths": 0
+      },
+      "Karachi": {
+        "cases": 20675,
+        "deaths": 0
+      },
+      "Lebanon": {
+        "cases": 637,
+        "deaths": 0
+      },
+      "Nairobi": {
+        "cases": 4617,
+        "deaths": 0
+      },
+      "Saudi": {
+        "cases": 2782,
+        "deaths": 0
+      },
+      "Thailand": {
+        "cases": 0,
+        "deaths": 0
+      },
+      "Turkey": {
+        "cases": 462,
+        "deaths": 0
+      },
+      "Venezuela": {
+        "cases": 0,
+        "deaths": 0
+      },
+      "Yemen": {
+        "cases": 666,
+        "deaths": 0
+      }
+    }
+  }
+]

@@ -1,0 +1,71 @@
+.drawer {
+  width: 270px;
+  flex-shrink: 0;
+}
+
+.drawerPaper {
+  background-color: #edf6f9 !important;
+  width: 270px;
+  padding: 20px 16px;
+}
+
+.title {
+  font-size: 1.5em;
+  font-weight: 600;
+  margin: 0;
+  line-height: 1;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  font-size: 1.1em;
+  font-weight: 200;
+  margin: 0;
+}
+
+.h3 {
+  margin: 0;
+  font-size: 1em;
+  font-weight: 600;
+}
+
+.citySelector {
+  margin-top: 1rem;
+}
+
+.cityItem {
+  display: flex;
+  margin: 4px 0;
+  cursor: pointer;
+  padding: 4px;
+  align-items: center;
+}
+
+.cityItem span {
+  margin-left: 8px;
+}
+
+.cityItem svg {
+  color: #006d77;
+}
+
+.cityItem:hover,
+.cityItem:active {
+  background-color: #006d77;
+  color: #fff;
+}
+
+.cityItem:hover svg,
+.cityItem:active svg {
+  color: #fff;
+}
+
+.ageSelector {
+  margin-top: 1rem;
+}
+.flex {
+  display: flex;
+}
+.virus_img {
+  margin-right: 1rem;
+}

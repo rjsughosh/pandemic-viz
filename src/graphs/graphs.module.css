@@ -1,0 +1,18 @@
+.body {
+  background: #eee;
+}
+.chip {
+  display: inline-flex;
+  justify-content: left;
+  align-items: center;
+  color: #666;
+  text-transform: uppercase;
+  font-size: 1rem;
+  font-weight: 800;
+  width: 100%;
+}
+.chip div {
+  background: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 2rem;
+}

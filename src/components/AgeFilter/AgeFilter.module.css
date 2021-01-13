@@ -1,0 +1,51 @@
+.AgeFilter {
+  display: inline-flex;
+  align-items: baseline;
+  margin-top: 10px;
+  flex-wrap: wrap;
+}
+
+.each_age_wrap {
+  width: 50%;
+  padding: 0.4rem;
+}
+
+.each_age {
+  margin: 0;
+  padding: 3px;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  color: #136d77;
+  border: 1px solid transparent;
+  border-radius: 5px;
+}
+
+.selected {
+  border: 1px solid #136d77;
+  background: rgb(245, 272, 275);
+}
+
+.each_age svg {
+  opacity: 0.5;
+}
+
+.each_age:hover svg {
+  /* opacity: 0.65; */
+}
+.icon_selected svg {
+  opacity: 1;
+}
+
+.value {
+  position: relative;
+}
+.icon_tick {
+  position: absolute;
+  top: -0.5rem;
+  right: -0.5rem;
+}
+
+.label {
+  font-size: 0.8rem;
+}

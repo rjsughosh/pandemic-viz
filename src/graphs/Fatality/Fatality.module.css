@@ -1,0 +1,70 @@
+.Fatality {
+  height: 520px;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  padding: 1.5rem;
+}
+.age_filter {
+  display: flex;
+  justify-content: flex-end;
+}
+.graph_wrapper {
+  height: 100%;
+  width: 100%;
+}
+
+.matrix_left {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+}
+
+.metadata_legends {
+  display: flex;
+  margin: 0.5rem 0;
+  text-align: left;
+  align-items: center;
+  font-size: 1rem;
+}
+
+.metadata_legend {
+  margin: 0 0.5rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.metadata_scale {
+  text-align: center;
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+.matrix_description {
+  margin-bottom: 1rem;
+  font-size: 3rem;
+  color: #149f84;
+  line-height: 1;
+  text-align: center;
+  font-weight: 600;
+}
+
+.matrix_container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.metadata_row:last-child {
+  margin-bottom: 0;
+}
+
+.legend_box {
+  height: 22px;
+  width: 22px;
+  display: inline-block;
+  margin-right: 0.5rem;
+}

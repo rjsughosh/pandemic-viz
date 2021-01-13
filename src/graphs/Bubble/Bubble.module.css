@@ -1,0 +1,49 @@
+.Bubble {
+  height: 100%;
+  padding-top: 50px;
+}
+
+.bubble_tooltip {
+  position: fixed;
+  top: 0;
+  visibility: hidden;
+  opacity: 0.9;
+  padding: 1rem;
+  background-color: #fff;
+  color: #333;
+  font-size: 14px;
+  border-radius: 4px;
+  -webkit-box-shadow: 2px 3px 14px -4px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 2px 3px 14px -4px rgba(0, 0, 0, 0.75);
+  box-shadow: 2px 3px 14px -4px rgba(0, 0, 0, 0.75);
+  z-index: 3000;
+}
+.country {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+.red {
+  background: #f25050;
+  width: 8px;
+  height: 8px;
+  display: inline-block;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.blue {
+  background: #149f84;
+  width: 8px;
+  height: 8px;
+  display: inline-block;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+.label {
+  margin-right: 1rem;
+}
+.cases {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}

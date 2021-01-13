@@ -1,0 +1,30 @@
+.buttons_wrap {
+  display: inline-flex;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-size: 13px;
+}
+.each_button {
+  border: 1px solid #006d77;
+  padding: 0.5rem;
+  background: #fff;
+  color: #006d77;
+}
+
+.mouseover:hover {
+  background: #f5feff;
+}
+.each_button:first-child {
+  border-right: none;
+}
+.selected {
+  background: #006d77;
+  color: #fff;
+}
+.selected:hover {
+  background: #006d77;
+}
+.disable {
+  cursor: not-allowed;
+  color: #ccc;
+}

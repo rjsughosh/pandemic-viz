@@ -1,0 +1,48 @@
+.Outbreak {
+  height: 520px;
+}
+
+.chartContainer {
+  padding-top: 20px;
+}
+.chip {
+  display: inline-flex;
+  justify-content: left;
+  align-items: center;
+  color: #666;
+  text-transform: uppercase;
+  font-size: 1rem;
+  font-weight: 800;
+}
+.chip div {
+  background: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 2rem;
+}
+.flex {
+  display: flex;
+  align-items: center;
+}
+.title_wrap {
+  display: flex;
+  justify-content: space-between;
+}
+
+.galleryContainer {
+  padding-top: 20px;
+}
+
+.galleryContainer > div {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.galleryContainer > div > div {
+  margin: 10px;
+}
+
+.galleryContainer svg {
+  margin: 14px;
+}
