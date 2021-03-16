@@ -2,7 +2,7 @@
 
 **Live Demo** - [https://pandemic-dashboard-cse-578.netlify.app/](https://pandemic-dashboard-cse-578.netlify.app/)
 
-![Screenshot][src/assets/pandemic-viz-screenshot.png]
+![Screenshot](src/assets/pandemic-viz-screenshot.png)
 
 This repo contains dashboard code for **VAST Mini Challenge 2010 - MC2**
 
